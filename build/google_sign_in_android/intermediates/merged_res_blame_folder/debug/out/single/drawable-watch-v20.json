@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/ayash/Coding/flutter-ui-plant-app-main/build/google_sign_in_android/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/ayash/.gradle/caches/transforms-2/files-2.1/f5c8f1e5de5058e981adfc6c18e2f630/jetified-play-services-auth-20.4.0/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/ayash/Coding/flutter-ui-plant-app-main/build/google_sign_in_android/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/ayash/.gradle/caches/transforms-2/files-2.1/f5c8f1e5de5058e981adfc6c18e2f630/jetified-play-services-auth-20.4.0/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/ayash/Coding/flutter-ui-plant-app-main/build/google_sign_in_android/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/ayash/.gradle/caches/transforms-2/files-2.1/f5c8f1e5de5058e981adfc6c18e2f630/jetified-play-services-auth-20.4.0/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    }
+]

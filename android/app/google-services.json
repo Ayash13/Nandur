@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "485117348628",
+    "project_id": "nandur-397e9",
+    "storage_bucket": "nandur-397e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485117348628:android:726778bbbb06564f7a5001",
+        "android_client_info": {
+          "package_name": "com.example.Nandur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485117348628-selrq6hns40hjc60rdrvvefaofd3phpt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.Nandur",
+            "certificate_hash": "3d4db635fc392956ab6740916c6bfb332b8c02fa"
+          }
+        },
+        {
+          "client_id": "485117348628-09nptl248qdj5k5m1iunu9pcsdg0gpfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARa33q0d4eSVbM_kUW5UBisYBk-6So16k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485117348628-09nptl248qdj5k5m1iunu9pcsdg0gpfm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "485117348628-ngjb2tr66frqmgcbqlt67gfjvagoklmj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterOnboarding"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485117348628:android:b9f6ab086fb1100a7a5001",
+        "android_client_info": {
+          "package_name": "com.example.flutter_Nandur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485117348628-1fn2a393bi0v1i68538n946f4d41v9kq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_Nandur",
+            "certificate_hash": "3d4db635fc392956ab6740916c6bfb332b8c02fa"
+          }
+        },
+        {
+          "client_id": "485117348628-09nptl248qdj5k5m1iunu9pcsdg0gpfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARa33q0d4eSVbM_kUW5UBisYBk-6So16k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485117348628-09nptl248qdj5k5m1iunu9pcsdg0gpfm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "485117348628-ngjb2tr66frqmgcbqlt67gfjvagoklmj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterOnboarding"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/ayash/Coding/flutter-ui-plant-app-main/build/twitter_login/intermediates/incremental/mergeReleaseResources/merged.dir/values-de/values-de.xml",
+            "map": [
+                {
+                    "source": "/Users/ayash/.gradle/caches/transforms-2/files-2.1/82c1026c595875733036868d6c7039ab/browser-1.3.0/res/values-de/values-de.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,159,260,371",
+                        "endColumns": "103,100,110,99",
+                        "endOffsets": "154,255,366,466"
+                    }
+                },
+                {
+                    "source": "/Users/ayash/.gradle/caches/transforms-2/files-2.1/f910e53d48c9bb13b167634611201768/core-1.6.0/res/values-de/values-de.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "471",
+                        "endColumns": "100",
+                        "endOffsets": "567"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ayash/Coding/flutter-ui-plant-app-main/build/twitter_login/intermediates/res/merged/release/values-de/values-de.xml",
+            "map": [
+                {
+                    "source": "/Users/ayash/.gradle/caches/transforms-2/files-2.1/82c1026c595875733036868d6c7039ab/browser-1.3.0/res/values-de/values-de.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,159,260,371",
+                        "endColumns": "103,100,110,99",
+                        "endOffsets": "154,255,366,466"
+                    }
+                },
+                {
+                    "source": "/Users/ayash/.gradle/caches/transforms-2/files-2.1/f910e53d48c9bb13b167634611201768/core-1.6.0/res/values-de/values-de.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "471",
+                        "endColumns": "100",
+                        "endOffsets": "567"
+                    }
+                }
+            ]
+        }
+    ]
+}
